@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  appointment_date: 2013-04-25 16:27:46
+  physicians_id: 
+  patients_id: 
+
+two:
+  appointment_date: 2013-04-25 16:27:46
+  physicians_id: 
+  patients_id: 
